@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rohit-port/static/css/main.2cd9ee1c.css",
+    "main.js": "/Rohit-port/static/js/main.d7b430b9.js",
+    "static/js/787.1d5e114e.chunk.js": "/Rohit-port/static/js/787.1d5e114e.chunk.js",
+    "static/media/self.png": "/Rohit-port/static/media/self.70a78ab8571f3436783b.png",
+    "index.html": "/Rohit-port/index.html",
+    "main.2cd9ee1c.css.map": "/Rohit-port/static/css/main.2cd9ee1c.css.map",
+    "main.d7b430b9.js.map": "/Rohit-port/static/js/main.d7b430b9.js.map",
+    "787.1d5e114e.chunk.js.map": "/Rohit-port/static/js/787.1d5e114e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd9ee1c.css",
+    "static/js/main.d7b430b9.js"
+  ]
+}
